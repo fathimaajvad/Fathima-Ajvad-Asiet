@@ -1,3 +1,6 @@
+//pgm to find if a string is palindrome or not
+//Fathima P Ajvad
+//Roll no: 27
 import java.util.*;
 import java.lang.*;
 class palindrome
