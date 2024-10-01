@@ -1,4 +1,4 @@
-//program for linear search
+//program for bubble sort
 //Fathima P Ajvad
 //Roll no:27
 #include<stdio.h>
