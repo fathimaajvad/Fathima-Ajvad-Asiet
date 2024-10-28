@@ -1,3 +1,6 @@
+//pgm to create a class named Employee enter details using Inheritance
+//Fathima P Ajvad
+//Roll no:27
 import java.util.*;
 class Employee
 {
