@@ -91,3 +91,11 @@ int main() {
    }
 }
 
+OUTPUT
+student@dl-27:~/27_fathima$ gcc hashtable.c
+student@dl-27:~/27_fathima$ ./a.out 
+ ~~  (1,20) (2,70) (42,80) (4,25) ~~  ~~  ~~  ~~  ~~  ~~  ~~  (12,44) (13,78) (14,32) ~~  ~~  (17,11) (37,97) ~~ 
+Element found: 97
+Element not found
+
+
