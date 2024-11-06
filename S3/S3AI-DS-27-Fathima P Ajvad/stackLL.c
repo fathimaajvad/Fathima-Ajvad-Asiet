@@ -64,4 +64,12 @@ int main() {
     return 0;
 }
 
+OUTPUT
+student@dl-27:~/27_fathima$ gcc stackLL.c
+student@dl-27:~/27_fathima$ ./a.out 
+Top element is 44
+Removing two elements...
+Top element is 22
+
+
 
