@@ -144,4 +144,15 @@ int main()
     return 0;
 }
 
+OUTPUT
+student@dl-27:~/27_fathima$ gcc BST.c
+student@dl-27:~/27_fathima$ ./a.out 
+60 found
+ 20  40  30  60  80  70  50 
+ 50  30  20  40  70  60  80 
+ 20  30  40  50  60  70  80 
+After Delete: 
+ 20  30  40  50  60  80 student@dl-27:~/27_fathima$ 
+
+
 
