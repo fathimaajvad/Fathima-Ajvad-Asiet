@@ -50,4 +50,16 @@ int main()
     return 0 ;
 }
 
+OUTPUT
+student@dl-27:~/27_fathima$ gcc bestfit.c
+student@dl-27:~/27_fathima$ ./a.out 
+
+Process No.	Process Size	Block no.
+1 			 40 			2
+2 			 10 			3
+3 			 30 			5
+4 			 60 			1
+student@dl-27:~/27_fathima$ 
+
+
 
