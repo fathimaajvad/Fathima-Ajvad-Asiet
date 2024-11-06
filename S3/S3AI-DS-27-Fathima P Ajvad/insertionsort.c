@@ -33,5 +33,11 @@ int main()
     return 0;
 }
 
+OUTPUT
+student@dl-27:~/27_fathima$ ./a.out 
+5 6 11 12 13 
+student@dl-27:~/27_fathima$ 
+
+
 
 
